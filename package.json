@@ -1,0 +1,27 @@
+{
+
+  "name": "zuma-bot",
+
+  "version": "1.0.0",
+
+  "description": "Zuma Network Discord Bot",
+
+  "main": "bot.js",
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "^13.16.0",
+
+    
+    "moment": "^2.30.1",
+     "mc-server-util": "^5.4.4"
+
+  }
+
+}
