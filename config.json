@@ -1,0 +1,10 @@
+{
+  "token": "bot token",
+  "prefix": "komutların önünde konulacak char (örnegin= !ip)",
+  "sunucuAdı": "sunucu adı",
+  "webSitesi": "internet sitesi",
+  "sunucuIP": "sunuzu ip adresi",
+  "sunucuPort": oyun portu(tırnaklar bilerek yok),
+  "destekSunucusu": "destek sunucu bağlantı adresi",
+  "footer": "Mesajların altında gözukucek yazı"
+}
